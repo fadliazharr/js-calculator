@@ -1,5 +1,5 @@
 # JavaScript Calculator
-
+You can access the live demo here: https://js-calculator-seven-livid.vercel.app/
 ## Overview
 
 This calculator replicates the behavior of a standard calculator, including chained operations, decimal support, order of operations, and more. It uses **formula logic** rather than immediate execution logic, and is compatible with the freeCodeCamp test suite.
